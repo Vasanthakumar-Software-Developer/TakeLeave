@@ -182,7 +182,7 @@ function handleClick1(){
                    noofdays={data.NoOfDays}
                    Informed={data.Inform}
                    from={data.FromDate}
-                   to= {data.toDate}/>
+                   to= {data.ToDate}/>
             ))
         }
         </div>

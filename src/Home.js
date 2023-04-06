@@ -35,8 +35,7 @@ export default function Home(){
     nav({
         pathname:"/Apply",
         search:createSearchParams({
-            name:useSearch.get("name"),
-            dep:useSearch.get("dep"),
+    
             email:useSearch.get("email")
         }).toString()
 
@@ -47,8 +46,7 @@ export default function Home(){
     nav({
         pathname:"/Admin",
         search:createSearchParams({
-            name:useSearch.get("name"),
-            dep:useSearch.get("dep"),
+       
             email:useSearch.get("email")
         }).toString()
 

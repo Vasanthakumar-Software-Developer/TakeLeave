@@ -34,6 +34,18 @@ function Apply(){
     const push =()=>{
         const dat=new Date()
         
+        database.ref().child("Leave").child("Employ").child(useSearch.get("email").toString().replaceAll("@","").replaceAll(".","")).child(dat.getTime()).set(
+            {
+                name:name,
+                Empid:EmpId,
+                Dep:Dep,
+                Purpose:Purpos,
+                FromDate:FromDate,
+                NoOfDays:NoOf,
+                ToDate:ToDate,
+                Inform:Inform,
+            }
+        )
         database.ref().child("Leave").child(dat.getTime()).set(
             {
                 name:name,
@@ -46,6 +58,7 @@ function Apply(){
                 Inform:Inform,
             }
         )
+        alert("succsfully Leave Applied")
     }
     function Navbar(){
         const nav=document.getElementById("bar");
