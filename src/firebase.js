@@ -1,4 +1,4 @@
-import firebase from 'https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js';
+import firebase from 'firebase/database';
 
 const firebaseConfig = {
     apiKey: "AIzaSyARU5d-pa3HczZyMjf9EFRnjYiliPjI83s",
