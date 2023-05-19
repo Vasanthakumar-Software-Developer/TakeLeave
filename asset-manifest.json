@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Takeleave/static/css/main.ca263057.css",
+    "main.css": "/Takeleave/static/css/main.742f565f.css",
     "main.js": "/Takeleave/static/js/main.fddc7170.js",
     "static/js/787.48a3adfe.chunk.js": "/Takeleave/static/js/787.48a3adfe.chunk.js",
     "static/media/laptop.jpg": "/Takeleave/static/media/laptop.9c8584dd5a4d7a19e39d.jpg",
     "static/media/lv.png": "/Takeleave/static/media/lv.cdf6923cee36afac7075.png",
     "index.html": "/Takeleave/index.html",
-    "main.ca263057.css.map": "/Takeleave/static/css/main.ca263057.css.map",
+    "main.742f565f.css.map": "/Takeleave/static/css/main.742f565f.css.map",
     "main.fddc7170.js.map": "/Takeleave/static/js/main.fddc7170.js.map",
     "787.48a3adfe.chunk.js.map": "/Takeleave/static/js/787.48a3adfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca263057.css",
+    "static/css/main.742f565f.css",
     "static/js/main.fddc7170.js"
   ]
 }
