@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Takeleave/static/css/main.742f565f.css",
-    "main.js": "/Takeleave/static/js/main.fddc7170.js",
+    "main.css": "/Takeleave/static/css/main.09ffd2c8.css",
+    "main.js": "/Takeleave/static/js/main.896205ee.js",
     "static/js/787.48a3adfe.chunk.js": "/Takeleave/static/js/787.48a3adfe.chunk.js",
+    "static/media/laptop9.jpg": "/Takeleave/static/media/laptop9.99d40a5cfb7175e95a79.jpg",
     "static/media/laptop.jpg": "/Takeleave/static/media/laptop.9c8584dd5a4d7a19e39d.jpg",
     "static/media/lv.png": "/Takeleave/static/media/lv.cdf6923cee36afac7075.png",
     "index.html": "/Takeleave/index.html",
-    "main.742f565f.css.map": "/Takeleave/static/css/main.742f565f.css.map",
-    "main.fddc7170.js.map": "/Takeleave/static/js/main.fddc7170.js.map",
+    "main.09ffd2c8.css.map": "/Takeleave/static/css/main.09ffd2c8.css.map",
+    "main.896205ee.js.map": "/Takeleave/static/js/main.896205ee.js.map",
     "787.48a3adfe.chunk.js.map": "/Takeleave/static/js/787.48a3adfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.742f565f.css",
-    "static/js/main.fddc7170.js"
+    "static/css/main.09ffd2c8.css",
+    "static/js/main.896205ee.js"
   ]
 }
